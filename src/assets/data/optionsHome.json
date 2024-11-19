@@ -1,0 +1,17 @@
+[
+    {
+        "icono":"today-outline",
+        "path":"clases-hoy",
+        "titulo":"Sesiones de hoy"
+    },
+    {
+        "icono":"list-outline",
+        "path":"pasar-lista",
+        "titulo":"Pasar lista"
+    },
+    {
+        "icono":"school-outline",
+        "path":"clases-impartidas",
+        "titulo":"Sesiones"
+    }
+]
