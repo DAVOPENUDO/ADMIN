@@ -5,8 +5,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class AutenticacionService {
 
-  host:string='https://web-production-69138.up.railway.app';
-
+  host:string='https://baclck-production.up.railway.app';
 
   constructor(
     private http:HttpClient

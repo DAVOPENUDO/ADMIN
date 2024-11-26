@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package com.scanroster.applista;
 
 import com.getcapacitor.BridgeActivity;
 
